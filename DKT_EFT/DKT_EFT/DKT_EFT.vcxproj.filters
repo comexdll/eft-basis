@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DKT_EFT.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mrden\Documents\mylibs\imguidx9\imguipp.cpp">
+      <Filter>Source\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mrden\Documents\mylibs\imguidx9\imgui_widgets.cpp">
+      <Filter>Source\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mrden\Documents\mylibs\imguidx9\imgui_impl_win32.cpp">
+      <Filter>Source\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mrden\Documents\mylibs\imguidx9\imgui_impl_dx9.cpp">
+      <Filter>Source\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mrden\Documents\mylibs\imguidx9\imgui_draw.cpp">
+      <Filter>Source\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mrden\Documents\mylibs\imguidx9\imgui.cpp">
+      <Filter>Source\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source\ImGui\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="mmc.cpp">
+      <Filter>Source\MMC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DKT_EFT.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="settings.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mrden\Documents\mylibs\imguidx9\imstb_truetype.h">
+      <Filter>Headers\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mrden\Documents\mylibs\imguidx9\imstb_textedit.h">
+      <Filter>Headers\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mrden\Documents\mylibs\imguidx9\imstb_rectpack.h">
+      <Filter>Headers\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Headers\ImGui\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="mmc.h">
+      <Filter>Headers\MMC</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="icons.h">
+      <Filter>Headers\icons</Filter>
+    </ClInclude>
+    <ClInclude Include="iconcpp.h">
+      <Filter>Headers\icons</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="DKT_EFT.ico">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{02494b56-018f-44a1-a95e-46e49223052a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{df0d2011-c31f-49b4-9109-6cee28ca091e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\ImGui">
+      <UniqueIdentifier>{5e133309-1139-4fdb-af3b-2a7445029613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ImGui">
+      <UniqueIdentifier>{7a06343e-3dd5-484d-8c97-33da5f28e231}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\ImGui\Menu">
+      <UniqueIdentifier>{1dfeef2c-61e4-4120-b830-ed73ed4dbf71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ImGui\Menu">
+      <UniqueIdentifier>{76024a2b-bb00-4e24-b4ff-5e0dad3ca59a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MMC">
+      <UniqueIdentifier>{a739fa6b-991c-4b20-8b5f-261f6d1ee611}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\MMC">
+      <UniqueIdentifier>{20032d0e-722e-4840-9c24-f804d192ac59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{5edf007f-2b4f-42a3-abc5-b8edd89db206}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\icons">
+      <UniqueIdentifier>{8689c3ad-0588-453a-b374-7c05376374f2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DKT_EFT.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
